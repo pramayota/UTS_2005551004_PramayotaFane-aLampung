@@ -4,21 +4,11 @@ public class konstruktorKotak {
     private int sisi;
 
 
-    // //this dipake untuk nunjuk variabel yang di class kalo nama variabel sama
-    // public void setNama(String nama){
-    //     String namski = nama;
-    //     this.namski = namski;
-    // }
 
     public void setSisi(int sisi){
         this.sisi = sisi;
     }
 
-    //kalo namski harus di liat isinya di class lain pake getNama
-
-    // public String getNama(){
-    //     return namski;
-    // }
 
     public int getSisi(){
         return sisi;

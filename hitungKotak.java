@@ -12,13 +12,7 @@ public class hitungKotak {
             masuk.nextLine();
             satu.setSisi(si);
             satu.cetak();
-            // System.out.println(satu.getNama());
 
-            //test set dan getNama
-            // System.out.println("masukkan nama");
-            // String  anjay = masuk.nextLine();
-            // satu.setNama(anjay);
-            // System.out.println(satu.getNama());
         } else if(pilih==2){
             System.out.println("masukkan nilai sisi ");
             int s = masuk.nextInt();
